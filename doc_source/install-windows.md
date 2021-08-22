@@ -145,7 +145,7 @@ After installing the AWS CLI version 1 with `pip`, add the `aws` program to your
    In that case, run the `where` command with the `/R path` parameter to tell it to search all folders, and then add the path manually\. Use the command line or File Explorer to discover where it's installed on your computer\. 
 
    ```
-   C:\> where /R c:\ aws
+   C:\> where /R c:\. aws
    c:\Program Files\Amazon\AWSCLI\bin\aws.exe
    c:\Program Files\Amazon\AWSCLI\bincompat\aws.cmd
    c:\Program Files\Amazon\AWSCLI\runtime\Scripts\aws
